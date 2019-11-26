@@ -1,0 +1,59 @@
+C:\Users\CoderCamps\source\repos\Admin_project\bin\Debug\Admin_project.exe.config
+C:\Users\CoderCamps\source\repos\Admin_project\bin\Debug\Admin_project.exe
+C:\Users\CoderCamps\source\repos\Admin_project\bin\Debug\Admin_project.pdb
+C:\Users\CoderCamps\source\repos\Admin_project\bin\Debug\Microsoft.ReportingServices.Interfaces.dll
+C:\Users\CoderCamps\source\repos\Admin_project\bin\Debug\Microsoft.SqlServer.DmfSqlClrWrapper.dll
+C:\Users\CoderCamps\source\repos\Admin_project\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\CoderCamps\source\repos\Admin_project\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\CoderCamps\source\repos\Admin_project\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\CoderCamps\source\repos\Admin_project\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\CoderCamps\source\repos\Admin_project\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\CoderCamps\source\repos\Admin_project\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\CoderCamps\source\repos\Admin_project\obj\Debug\Admin_project.csprojAssemblyReference.cache
+C:\Users\CoderCamps\source\repos\Admin_project\obj\Debug\Admin_project.Form1.resources
+C:\Users\CoderCamps\source\repos\Admin_project\obj\Debug\Admin_project.Properties.Resources.resources
+C:\Users\CoderCamps\source\repos\Admin_project\obj\Debug\Admin_project.csproj.GenerateResource.cache
+C:\Users\CoderCamps\source\repos\Admin_project\obj\Debug\Admin_project.csproj.CoreCompileInputs.cache
+C:\Users\CoderCamps\source\repos\Admin_project\obj\Debug\Admin_project.csproj.CopyComplete
+C:\Users\CoderCamps\source\repos\Admin_project\obj\Debug\Admin_project.exe
+C:\Users\CoderCamps\source\repos\Admin_project\obj\Debug\Admin_project.pdb
+C:\Users\CoderCamps\Documents\Visual Studio 2019\Projects\Admin_project\bin\Debug\Admin_project.exe.config
+C:\Users\CoderCamps\Documents\Visual Studio 2019\Projects\Admin_project\bin\Debug\Admin_project.exe
+C:\Users\CoderCamps\Documents\Visual Studio 2019\Projects\Admin_project\bin\Debug\Admin_project.pdb
+C:\Users\CoderCamps\Documents\Visual Studio 2019\Projects\Admin_project\bin\Debug\Microsoft.ReportingServices.Interfaces.dll
+C:\Users\CoderCamps\Documents\Visual Studio 2019\Projects\Admin_project\bin\Debug\Microsoft.SqlServer.DmfSqlClrWrapper.dll
+C:\Users\CoderCamps\Documents\Visual Studio 2019\Projects\Admin_project\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\CoderCamps\Documents\Visual Studio 2019\Projects\Admin_project\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\CoderCamps\Documents\Visual Studio 2019\Projects\Admin_project\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\CoderCamps\Documents\Visual Studio 2019\Projects\Admin_project\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\CoderCamps\Documents\Visual Studio 2019\Projects\Admin_project\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\CoderCamps\Documents\Visual Studio 2019\Projects\Admin_project\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\CoderCamps\Documents\Visual Studio 2019\Projects\Admin_project\obj\Debug\Admin_project.csprojAssemblyReference.cache
+C:\Users\CoderCamps\Documents\Visual Studio 2019\Projects\Admin_project\obj\Debug\Admin_project.Form1.resources
+C:\Users\CoderCamps\Documents\Visual Studio 2019\Projects\Admin_project\obj\Debug\Admin_project.Properties.Resources.resources
+C:\Users\CoderCamps\Documents\Visual Studio 2019\Projects\Admin_project\obj\Debug\Admin_project.csproj.GenerateResource.cache
+C:\Users\CoderCamps\Documents\Visual Studio 2019\Projects\Admin_project\obj\Debug\Admin_project.csproj.CoreCompileInputs.cache
+C:\Users\CoderCamps\Documents\Visual Studio 2019\Projects\Admin_project\obj\Debug\Admin_project.csproj.CopyComplete
+C:\Users\CoderCamps\Documents\Visual Studio 2019\Projects\Admin_project\obj\Debug\Admin_project.exe
+C:\Users\CoderCamps\Documents\Visual Studio 2019\Projects\Admin_project\obj\Debug\Admin_project.pdb
+C:\Users\CoderCamps\Documents\Visual Studio 2019\Projects\Admin_project\obj\Debug\Admin_project.FrmRelative.resources
+C:\Users\CoderCamps\Documents\Visual Studio 2019\Projects\Admin_project\obj\Debug\Admin_project.FrmAsset.resources
+C:\Users\CoderCamps\Documents\Visual Studio 2019\Projects\Admin_project\obj\Debug\Admin_project.Frmlocation.resources
+C:\Users\CoderCamps\Documents\Visual Studio 2019\Projects\Admin_project\obj\Debug\Admin_project.MainMenu.resources
+C:\Users\Abdifatah\Desktop\Admin_project\bin\Debug\Admin_project.exe.config
+C:\Users\Abdifatah\Desktop\Admin_project\bin\Debug\Admin_project.exe
+C:\Users\Abdifatah\Desktop\Admin_project\bin\Debug\Admin_project.pdb
+C:\Users\Abdifatah\Desktop\Admin_project\bin\Debug\Microsoft.ReportingServices.Interfaces.dll
+C:\Users\Abdifatah\Desktop\Admin_project\bin\Debug\Microsoft.SqlServer.DmfSqlClrWrapper.dll
+C:\Users\Abdifatah\Desktop\Admin_project\obj\Debug\Admin_project.csprojAssemblyReference.cache
+C:\Users\Abdifatah\Desktop\Admin_project\obj\Debug\Admin_project.Form1.resources
+C:\Users\Abdifatah\Desktop\Admin_project\obj\Debug\Admin_project.FrmAsset.resources
+C:\Users\Abdifatah\Desktop\Admin_project\obj\Debug\Admin_project.Frmlocation.resources
+C:\Users\Abdifatah\Desktop\Admin_project\obj\Debug\Admin_project.FrmRelative.resources
+C:\Users\Abdifatah\Desktop\Admin_project\obj\Debug\Admin_project.MainMenu.resources
+C:\Users\Abdifatah\Desktop\Admin_project\obj\Debug\Admin_project.Properties.Resources.resources
+C:\Users\Abdifatah\Desktop\Admin_project\obj\Debug\Admin_project.csproj.GenerateResource.cache
+C:\Users\Abdifatah\Desktop\Admin_project\obj\Debug\Admin_project.csproj.CoreCompileInputs.cache
+C:\Users\Abdifatah\Desktop\Admin_project\obj\Debug\Admin_project.csproj.CopyComplete
+C:\Users\Abdifatah\Desktop\Admin_project\obj\Debug\Admin_project.exe
+C:\Users\Abdifatah\Desktop\Admin_project\obj\Debug\Admin_project.pdb
